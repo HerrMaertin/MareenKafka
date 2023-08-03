@@ -1,6 +1,6 @@
 <!-- App.vue -->
 <template>
-    <div class="bg-gradient-to-r from-teal-200 via-teal-300 to-teal-400 min-h-screen">
+    <div class="bg-gradient-to-r from-teal-300 via-teal-300 to-teal-400 min-h-screen">
         <div class="container mx-auto py-10">
             <h1 class="text-4xl font-bold text-white mb-6">SchwangerenYoga</h1>
             <div class="grid grid-cols-2 gap-8">
